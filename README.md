@@ -22,13 +22,14 @@ The styleProps object allows you to tweak various aspects of the UI to match you
 ![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/0bff2629-4f8d-4a61-a1ba-0458296d1aa7)
 
 
-pinnedVideoContainer: Styling for the main video container.
-maxViewContainer: Styling for the maximum view container.
-scrollViewContainer: Styling for the scroll view container.
-localBtnContainer: Styling for the local button container.
-minViewContainer: Styling for the minimum view container.
-localBtnStyles: Styles for specific local buttons like mute video, mute audio, and end call.
-customIcon: Custom icons for mic, mic off, videocam, videocam off, and call end.
+- pinnedVideoContainer: Styling for the main video container.
+- maxViewContainer: Styling for the maximum view container.
+- scrollViewContainer: Styling for the scroll view container.
+- localBtnContainer: Styling for the local button container.
+- minViewContainer: Styling for the minimum view container.
+- localBtnStyles: Styles for specific local buttons like mute video, mute audio, and end call.
+- customIcon: Custom icons for mic, mic off, videocam, videocam off, and call end.
+  
 Feel free to adjust these properties according to your preferences.
 
 Handling Callbacks
