@@ -37,7 +37,7 @@ Usage
 You can seamlessly integrate the provided code snippets into your project to achieve a customized UI tailored to your application's needs.
 
 final wireframe
-![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/fe7cfaa1-d2a9-4e20-b88e-d03010aa08d5)
+![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/e7bc65a7-0f16-4ae4-bfba-b4cd4b2638ea)
 
 
 Feel free to experiment with different style properties and callbacks to create a unique user experience for your users.
