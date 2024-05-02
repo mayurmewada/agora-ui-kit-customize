@@ -6,7 +6,7 @@ you through how to customize the UI to fit your specific needs.
 Getting Started
 First, integrate Agora UI KIT into your project by passing props to the AgoraUIKit component. These parameters are predefined and accept only valid inputs.
 
-![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/7cb38754-dc09-48fd-a9a7-b4ead360a382)
+![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/61bbee30-5c55-4328-ac8a-dd70638f6d29)
 
 
 <AgoraUIKit
