@@ -1,4 +1,9 @@
 # agora-ui-kit-customize
+
+
+# final wireframe
+![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/789f719f-c28b-4daf-9a81-588a5fcb1a07)
+
 ### Customizing UI with Agora UI KIT
 If you're looking to tailor the user interface (UI) of your application using Agora UI KIT, you've come to the right place! Below, we'll walk 
 you through how to customize the UI to fit your specific needs.
@@ -36,10 +41,6 @@ In this example, the EndCall callback toggles the visibility of a chat window ba
 Usage
 You can seamlessly integrate the provided code snippets into your project to achieve a customized UI tailored to your application's needs.
 
-final wireframe
-![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/789f719f-c28b-4daf-9a81-588a5fcb1a07)
-
-![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/e7bc65a7-0f16-4ae4-bfba-b4cd4b2638ea)
 
 
 Feel free to experiment with different style properties and callbacks to create a unique user experience for your users.
