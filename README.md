@@ -1,5 +1,9 @@
 # agora-ui-kit-customize
 
+### Why use Agora:
+
+- It provides you better functionality to use audio and video call throughout your web app as well as in your mobile application too.
+
 # Final Wireframe:
 
 ![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/789f719f-c28b-4daf-9a81-588a5fcb1a07)
