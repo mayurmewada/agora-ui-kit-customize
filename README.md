@@ -2,7 +2,8 @@
 
 #### How customize will look like
 
-![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/3392cbce-beca-4010-923b-ca3a2ca014d1)
+![image](https://github.com/mayurmewada/agora-ui-kit-customize/assets/84275081/22bebce6-ddb8-42e3-abfc-bdcdd62d60ff)
+
 
 
 
