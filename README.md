@@ -7,4 +7,4 @@
 
 
 
-### Sorry for inconvenience, document currently on maintenance from 11th May 2024 to 14th May 2024 (Expected)
+### Sorry for inconvenience, document currently on maintenance
